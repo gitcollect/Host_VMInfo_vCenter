@@ -29,7 +29,7 @@ import com.vmware.vim25.mo.util.MorUtil;
  * Author: Neha Viswanathan, 010029097
  * Date: 04-01-2015
  */
-public class Hw2_097_Cmpe283_NavigatePaths {
+public class NavigatePaths {
 
 	public static void main(String[] args) {
 		ServiceInstance sInst = null;
